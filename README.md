@@ -82,11 +82,11 @@
 ---
 
 ## 📬 Connect With Me
-📫 Email — **your-email@gmail.com**  
-🔗 Portfolio — *(add later when ready)*  
-🔗 LinkedIn — *(optional)*  
+📫 Email — nowrosenahrin7@gmail.com  
+🔗 Portfolio — *(will add soon)*  
+🔗 LinkedIn — *(will add soon)*  
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+
 
