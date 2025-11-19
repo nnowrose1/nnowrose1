@@ -54,18 +54,10 @@
 
 > More coming soon 🚧
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nnowrose1&theme=onedark&margin-w=8" alt="trophies" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=tokyonight" height="165"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnowrose1&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
