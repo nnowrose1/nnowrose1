@@ -44,9 +44,13 @@
 ---
 
 ## 📌 Pinned Projects
-| Project | Live | Repo |
-|--------|------|------|
-| **TravelEase – Travel Booking Website** | 🔗 https://velvety-heliotrope-609ed2.netlify.app/ | 🔗 https://github.com/nnowrose1/travel-ease |
+
+| Project | Live Demo | Repository |
+|--------|-----------|------------|
+| **Travel Ease** – Travel Booking Website | 🔗 [Live](https://velvety-heliotrope-609ed2.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/travel-ease) |
+| **English Janala** – Learn English Vocabulary | 🔗 [Live](https://nnowrose1.github.io/english-janala/) | 🔗 [Repo](https://github.com/nnowrose1/english-janala) |
+| **REACTRIX.IO** – Hero App Marketplace | 🔗 [Live](https://zesty-fenglisu-b5cf40.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/reactrix.io) |
+
 
 > More coming soon 🚧
 
