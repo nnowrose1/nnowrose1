@@ -1,9 +1,14 @@
-<div align="center">
-  
-# 👋 Hi, I'm Nahrin Nowrose  
 
-💻 MERN stack learner on a journey to full-stack mastery with a passion for building modern, responsive web applications. Combining engineering logic with creative UI development to solve real-world problems.
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/5MMgVBG/github-banner.png" alt="Profile Banner" />
+</p>
+
+<h1 align="center">Hi there 👋 I'm Nahrin Nowrose</h1>
+
+<h3 align="center">
+  MERN stack learner on a journey to full-stack mastery — blending engineering logic with creative UI development to build modern, responsive, impactful web applications.
+</h3>
 
 ---
 
@@ -15,49 +20,73 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,arduino,matlab,vscode)](https://skillicons.dev)
-
-</div>
-
----
-
-### 📌 Featured Projects  
-🚗 **Car Rental App** — React + Node.js + MongoDB  
-🛍️ **E-commerce Frontend** — React + Stripe  
-📦 **Parcel Management System** — React + Firebase  
-
-> *(Will update Repository & Live links when pinned.)*
+## 🗣️ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnowrose1&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nnowrose1&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+## 🧰 Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-### 🔥 Activity Graph
+## 📌 Pinned Projects
+| Project | Live | Repo |
+|--------|------|------|
+| **TravelEase – Travel Booking Website** | 🔗 https://velvety-heliotrope-609ed2.netlify.app/ | 🔗 https://github.com/nnowrose1/travel-ease |
 
-<div align="center">
+> More coming soon 🚧
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnowrose1&theme=react-)
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nnowrose1&theme=onedark&margin-w=8" alt="trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnowrose1&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nnowrose1&theme=react-dark" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nnowrose1&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 📬 Connect With Me
+📫 Email — **your-email@gmail.com**  
+🔗 Portfolio — *(add later when ready)*  
+🔗 LinkedIn — *(optional)*  
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
+
