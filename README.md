@@ -1,9 +1,4 @@
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/5MMgVBG/github-banner.png" alt="Profile Banner" />
-</p>
-
 <h1 align="center">Hi there 👋 I'm Nahrin Nowrose</h1>
 
 <h3 align="center">
