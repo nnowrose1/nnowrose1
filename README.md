@@ -2,10 +2,7 @@
   
 # 👋 Hi, I'm Nahrin Nowrose  
 
-💻 Frontend Developer | MERN Stack Learner  
-🔬 Electrical & Electronics Engineer  
-🚀 Passionate about building modern, responsive & scalable web applications  
-
+💻 MERN stack learner on a journey to full-stack mastery with a passion for building modern, responsive web applications. Combining engineering logic with creative UI development to solve real-world problems.
 </div>
 
 ---
