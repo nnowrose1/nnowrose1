@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nnowrose1/nnowrose1/main/banner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/nnowrose1/nnowrose1/main/banner.png" alt="Banner" width="100%" height='250' />
 
 <h1 align="center">Hi there 👋 I'm Nahrin Nowrose</h1>
 
