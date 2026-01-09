@@ -81,7 +81,8 @@
 
 ## 📬 Connect With Me
 📫 Email — nowrosenahrin7@gmail.com  
-🔗 Portfolio —  roaring-gingersnap-29ca1e.netlify.app 
+🔗 Portfolio — https://roaring-gingersnap-29ca1e.netlify.app/
+
 🔗 LinkedIn —  https://www.linkedin.com/in/nahrin-nowrose/ 
 
 ---
