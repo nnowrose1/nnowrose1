@@ -53,11 +53,13 @@
 
 
 ## 📈 GitHub Stats
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&count_private=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nnowrose1" />
-
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnowrose1" />
+</p>
 
 ## 🔥 Activity Graph
 <p align="center">
