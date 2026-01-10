@@ -59,11 +59,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=nnowrose1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnowrose1" />
 </p>
-
-
-
 
 
 ## 🔥 Activity Graph
