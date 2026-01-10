@@ -46,7 +46,7 @@
 | **AssetNexus** – A modern B2B platform designed to streamline HR and asset management  | 🔗 [Live](https://tranquil-empanada-81ec32.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/asset-management-client) |
 | **LuxTrip** – Travel Booking Website | 🔗 [Live](https://velvety-heliotrope-609ed2.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/travel-ease-client) |
 | **English Janala** – Learn English Vocabulary | 🔗 [Live](https://nnowrose1.github.io/english-janala/) | 🔗 [Repo](https://github.com/nnowrose1/english-janala) |
-| **REACTRIX.IO** – Hero App Marketplace | 🔗 [Live](https://zesty-fenglisu-b5cf40.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/reactrix.io) |
+| **REACTRIX.IO** – Hero App Marketplace | 🔗 [Live](https://zesty-fenglisu-b5cf40.netlify.app/) | 🔗 [Repo](https://github.com/nnowrose1/hero-app/tree/main) |
 
 
 > More coming soon 🚧
