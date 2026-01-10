@@ -53,16 +53,13 @@
 
 
 ## 📈 GitHub Stats
-<!-- <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnowrose1&layout=compact&theme=tokyonight" height="165"/>
-</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=default&cache_seconds=1800&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnowrose1" />
+  <img src="https://streak-stats.demolab.com?user=nnowrose1&cache_seconds=1800&hide_border=true" />
 </p>
 
 
@@ -82,7 +79,7 @@
 
 ## 📬 Connect With Me
 📫 Email — nowrosenahrin7@gmail.com  
-🔗 Portfolio — https://roaring-gingersnap-29ca1e.netlify.app/
+🔗 Portfolio — https://roaring-gingersnap-29ca1e.netlify.app/  
 🔗 LinkedIn —  https://www.linkedin.com/in/nahrin-nowrose/ 
 
 ---
