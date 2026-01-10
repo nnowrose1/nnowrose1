@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnowrose1" />
 </p>
----
+
 
 ## 🔥 Activity Graph
 <p align="center">
