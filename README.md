@@ -59,8 +59,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nnowrose1" />
+  <img src="https://github-readme-streak-stats-git-main.vercel.app?user=nnowrose1" />
 </p>
+
 
 
 
