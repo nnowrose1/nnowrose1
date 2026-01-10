@@ -55,11 +55,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=default&cache_seconds=1800&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nnowrose1&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nnowrose1&cache_seconds=1800&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnowrose1" />
 </p>
 
 
