@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnowrose1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnowrose1&utcOffset=6" />
 </p>
 
 
